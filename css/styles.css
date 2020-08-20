@@ -1,0 +1,35 @@
+/*******************TAG SELECTORS********************/
+
+
+body{
+background-color: #f7f5dd;
+
+}
+
+h1{
+
+color: #b52b65;    
+}
+h2{
+
+color: #ed6663;
+}
+p{
+    margin: 20px 
+}
+
+hr{
+   border-style: dotted none none; 
+   border-color: #e36387;
+   border-width: 5px;
+   width: 50%;
+
+}
+/************************ID SELECTORS*********************/
+
+#disneyland{
+    border-radius: 30%;
+}
+#fotoprincipal{
+    border-radius: 60%;
+}
