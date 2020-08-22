@@ -29,6 +29,7 @@ hr{
 
 #disneyland{
     border-radius: 30%;
+    max-width: 100%;
 }
 #fotoprincipal{
     border-radius: 60%;
