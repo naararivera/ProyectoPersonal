@@ -32,11 +32,11 @@ p{
    
 }
 a{
-    color: #ed6663;
+    color: #f173c7;
     text-decoration: none;
 }
 a:hover{
-    color: #ee9f9e;
+    color: #f7a6ce;
 }
 
 hr{
@@ -94,12 +94,10 @@ hr{
 .titulopanolivasdescripcion{
     text-align: center;
 }
-.listadeingredientes{
-    margin-left: 100px;
-}
-.orderlistingredients{
-    margin-left: 100px;
-}
+
 .tituloingredientes{
     text-align: center;
+}
+.cotillea{
+    color: #f1bcd7;
 }
