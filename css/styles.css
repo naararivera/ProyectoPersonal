@@ -61,6 +61,29 @@ hr{
     width: 30%;
     border-radius: 60%;
 }
+/***************************CLASS SELECTORS**************/
+
+/***********NAVIGATION BAR************/
+.navbar-brand{
+    color:  #e36387;
+    font-family: 'Caudex', serif;
+    font-size: 2rem;    
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.navbar-toggler{
+    background-color: #e36387;
+    border:none;
+    
+}
+.navbar-toggler:hover{
+    background-color:#f7a6ce;
+    border: #ffe0f7;
+}
+.fa-ellipsis-h{
+    color: #ffe0f7;
+}
+/****FRANCES*****/
 .DisneylandParis{
     text-align: center;
     margin:50px auto;
@@ -71,7 +94,7 @@ hr{
     background-color: #ffe0f7;
     padding-bottom:20px;
 }
-
+/*******COCINA******/
 .cocina{
         background-color: #ee9f9e;
 }
@@ -79,6 +102,7 @@ hr{
     color: #ffe0f7;
     margin: 0;
     padding-left: 2rem;
+    padding-top: 20px;
 }
 .pan-de-olivas{
     background-color: #f1e8cf;
@@ -86,7 +110,7 @@ hr{
 }
 .imagendepan{
     width: 10%;
-    margin:40px;
+    margin:20px;
     float: left;
 }
 .pandeolivas{
@@ -96,9 +120,15 @@ hr{
     text-align: center;
 }
 
+.class-ingredientes{
+    margin: 7% 7%;
+}
 .tituloingredientes{
     text-align: center;
 }
 .cotillea{
     color: #f1bcd7;
+}
+.row{
+    margin: 0 7%;
 }
